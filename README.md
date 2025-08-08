@@ -1,1 +1,1 @@
-# AI-Omics-Internship_2025
+# Omics-Internship
